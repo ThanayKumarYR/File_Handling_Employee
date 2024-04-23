@@ -1,0 +1,7 @@
+C:\Users\Thanay\source\repos\FileHandlingEmployee\bin\Debug\FileHandlingEmployee.exe.config
+C:\Users\Thanay\source\repos\FileHandlingEmployee\bin\Debug\FileHandlingEmployee.exe
+C:\Users\Thanay\source\repos\FileHandlingEmployee\bin\Debug\FileHandlingEmployee.pdb
+C:\Users\Thanay\source\repos\FileHandlingEmployee\obj\Debug\FileHandlingEmployee.csproj.AssemblyReference.cache
+C:\Users\Thanay\source\repos\FileHandlingEmployee\obj\Debug\FileHandlingEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Thanay\source\repos\FileHandlingEmployee\obj\Debug\FileHandlingEmployee.exe
+C:\Users\Thanay\source\repos\FileHandlingEmployee\obj\Debug\FileHandlingEmployee.pdb
